@@ -8,3 +8,4 @@ document.documentElement.className = document.documentElement.className.replace(
 <script>
 document.documentElement.className = document.documentElement.className.replace( /(^|\s)no-js(\s|$)/, "$1js-enabled$2" );
 </script>
+<meta name="viewport" content="initial-scale=1,user-scalable=yes">
